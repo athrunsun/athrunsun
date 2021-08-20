@@ -13,7 +13,7 @@ This is the home of a passionate but quiet GEEK. I am a frontend engineer right 
 - Science fiction. Have you watched Interstellar? It's a great movie.
 - Crazy fan of voice actor/actress (or character voice, or CV for short, or 声优 in Chinese).
 
-#### Some other things about me
+#### Other facts
 - I love cats more than dogs.
 - I prefer 4 spaces as tab.
 
