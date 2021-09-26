@@ -9,13 +9,13 @@ This is the home of a passionate but quiet GEEK.
 #### Interests
 - Docker/podman. Perhaps someday we can compose an OS by containers.
 - 3D/WebGL. Webpages will be 3D in the future.
-- Astronomy. Can you imagine the diameter of the biggest black hole (as of 2021/8/21) is 144 times the diameter of our Solar system?
+- Astronomy. Can you imagine the diameter of the biggest black hole [TON 618](https://en.wikipedia.org/wiki/TON_618) (as of 2021/8/21) is 33 times the diameter of our Solar system?
 - Science fiction. Have you watched Interstellar? It's a great movie.
 - Crazy fan of voice actor/actress (or character voice, or CV for short, or 声优 in Chinese).
 
 #### Other facts about me
 - I love cats more than dogs.
-- I prefer 4 spaces as tab.
+- I prefer 4 spaces as a tab.
 
 #### CI status
 - personal-ppa: [![Build Status](https://dev.azure.com/okampfer/ppa_build/_apis/build/status/ppa_build?branchName=master)](https://dev.azure.com/okampfer/ppa_build/_build/latest?definitionId=5&branchName=master)
