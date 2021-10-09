@@ -14,6 +14,7 @@ This is the home of a passionate but quiet GEEK.
 - Crazy fan of voice actor/actress (or character voice, or CV for short, or 声优 in Chinese).
 
 #### Other facts about me
+- Blue is my favorite color. It is the color of the ocean, which looks cold in its apprearance but has a strong power inside.
 - I love cats more than dogs.
 - I prefer 4 spaces as a tab.
 
