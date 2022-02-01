@@ -21,7 +21,4 @@ This is the home of a passionate but quiet GEEK.
 - I prefer 4 spaces as a tab.
 
 #### CI status
-- personal-ppa: [![Build Status](https://dev.azure.com/okampfer/ppa_build/_apis/build/status/ppa_build?branchName=master)](https://dev.azure.com/okampfer/ppa_build/_build/latest?definitionId=5&branchName=master)
-- gfwlist-mirror: [![Build Status](https://dev.azure.com/okampfer/gfwlist-mirror-build/_apis/build/status/gfwlist-mirror-build?branchName=master)](https://dev.azure.com/okampfer/gfwlist-mirror-build/_build/latest?definitionId=3&branchName=master)
-- sublime-text package-control mirror: [![Build Status](https://dev.azure.com/okampfer/package-control-channel-v3-mirror-build/_apis/build/status/package-control-channel-v3-mirror-build?branchName=master)](https://dev.azure.com/okampfer/package-control-channel-v3-mirror-build/_build/latest?definitionId=7&branchName=master)
 - personal-scoop-bucket: [![Build Status](https://dev.azure.com/okampfer/scoop-bucket-build/_apis/build/status/scoop-bucket-build?branchName=master)](https://dev.azure.com/okampfer/scoop-bucket-build/_build/latest?definitionId=6&branchName=master)
