@@ -21,4 +21,4 @@ This is the home of a passionate but quiet GEEK.
 - I prefer 4 spaces as a tab.
 
 #### CI status
-- personal-scoop-bucket: [![Build Status](https://dev.azure.com/okampfer/scoop-bucket-build/_apis/build/status/scoop-bucket-build?branchName=master)](https://dev.azure.com/okampfer/scoop-bucket-build/_build/latest?definitionId=6&branchName=master)
+- personal-scoop-bucket: [![regular_build](https://github.com/athrunsun/scoop-bucket/actions/workflows/regular-build.yaml/badge.svg)](https://github.com/athrunsun/scoop-bucket/actions/workflows/regular-build.yaml)
