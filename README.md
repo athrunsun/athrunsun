@@ -22,6 +22,3 @@ This is the home of a passionate but quiet GEEK.
 - Blue is my favorite color. It is the color of the ocean, which looks cold in its apprearance but has a strong power inside.
 - I love cats more than dogs.
 - I prefer 2 spaces as a tab.
-
-#### CI status
-- personal-scoop-bucket: [![regular_build](https://github.com/athrunsun/scoop-bucket/actions/workflows/regular-build.yaml/badge.svg)](https://github.com/athrunsun/scoop-bucket/actions/workflows/regular-build.yaml)
